@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0142-linked-list-cycle-ii) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
