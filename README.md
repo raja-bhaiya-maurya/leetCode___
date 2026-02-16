@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0007-reverse-integer) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0142-linked-list-cycle-ii) |
@@ -34,5 +36,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
