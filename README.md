@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
