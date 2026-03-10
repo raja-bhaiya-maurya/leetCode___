@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0061-rotate-list) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0027-remove-element) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0496-next-greater-element-i) |
