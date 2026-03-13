@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0977-squares-of-a-sorted-array) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Hash Table
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0078-subsets) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
