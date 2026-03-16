@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0047-permutations-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
