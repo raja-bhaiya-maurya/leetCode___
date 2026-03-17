@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0047-permutations-ii) |
+| [0066-plus-one](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0150-evaluate-reverse-polish-notation) |
