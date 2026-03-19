@@ -122,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
