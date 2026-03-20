@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0326-power-of-three](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
