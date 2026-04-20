@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0342-power-of-four) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Database
