@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0175-combine-two-tables) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
