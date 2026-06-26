@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0345-reverse-vowels-of-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/1021-remove-outermost-parentheses) |
