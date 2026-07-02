@@ -1,24 +1,30 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        string word = "";
-        string temp = "";
-        int st, times, turn = 0;
-        for (int i = 0; i < s.size(); i++) {
-            if (isalnum(s[i]) && turn == 0) {
-                st = i;
-                turn = 1;
-
-            } 
-            if (turn == 1 &&
-                       (i + 1 == s.size() ||!isalnum(s[i + 1])  )) {
-                times = i - st + 1;
-                turn = 0;
-                temp = s.substr(st, times);
-                word = temp + " " + word;
-            }
+     reverse(s.begin(),s.end());
+     int i=0,j=0;
+     int n= s.size();
+     while(i<n){
+        while(i<n && s[i]==' '){
+            i++;
+        }
+        if(i==n){
+            break;
+        }
+        if(j!=0){
+            s[j++]=' ';
+        }
+        int start= j;
+        while(i<n && s[i]!=' '){
+            s[j++]=s[i++];
         }
 
-        return word.substr(0, word.size() - 1);
+        reverse(s.begin()+start,s.begin()+j);
+
+     }
+     s.resize(j);
+     return s;
+
+
     }
 };
