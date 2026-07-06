@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0342-power-of-four) |
 ## Linked List
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0345-reverse-vowels-of-a-string) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0496-next-greater-element-i) |
