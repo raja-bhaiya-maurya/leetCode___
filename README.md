@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0724-find-pivot-index) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0496-next-greater-element-i) |
 ## Recursion
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0047-permutations-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0349-intersection-of-two-arrays) |
 ## Database
 |  |
 | ------- |
