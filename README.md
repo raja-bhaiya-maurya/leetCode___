@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0090-subsets-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Queue
 |  |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
