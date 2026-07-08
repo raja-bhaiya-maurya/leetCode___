@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0151-reverse-words-in-a-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
