@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0160-intersection-of-two-linked-lists) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0058-length-of-last-word) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0918-maximum-sum-circular-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
