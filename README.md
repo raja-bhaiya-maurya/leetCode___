@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0503-next-greater-element-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/1004-max-consecutive-ones-iii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
