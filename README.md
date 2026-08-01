@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0977-squares-of-a-sorted-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0560-subarray-sum-equals-k) |
 ## Recursion
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
