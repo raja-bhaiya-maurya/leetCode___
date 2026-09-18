@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/1004-max-consecutive-ones-iii) |
@@ -122,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/raja-bhaiya-maurya/leetCode___/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
